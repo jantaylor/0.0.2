@@ -16,28 +16,39 @@ Submit your solution to this repo in a folder with your team name.
 
 ###### Example Models:
 [RunwayML's original Stable Diffusion1.5 model](https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors)
+
 ![RunwayML Example](./assets/runwayml_example.png)
 
 [Stable Diffusion 2 - StabilityAI's model for 512x512](https://huggingface.co/stabilityai/stable-diffusion-2-base/resolve/main/512-base-ema.safetensors)
+
 ![StabilityAI example](./assets/stabilityai_example.png)
 
 [Midjourney Replica](https://huggingface.co/Joeythemonster/anything-midjourney-v-4-1/resolve/main/ANYTHING_MIDJOURNEY_V_4.1.safetensors)
+
 ![Midjourney Example](./assets/midjourney_example.png)
 
 [SDXL - Generates in 1024x1024, a little more difficult to set up but could make better results](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors)
+
 [SDXL VAE](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors)
+
 [SDXL Refiner](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors)
+
 [SDXL Refiner VAE](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0_0.9vae.safetensors)
+
 [Apple's SDXL for running on Mac M1/M2 GPUs](https://huggingface.co/apple/coreml-stable-diffusion-xl-base/resolve/main/coreml-stable-diffusion-xl-base_original_compiled.zip)
+
 ![SDXL Example](./assets/SDXL_example.png)
 
 [3D Animation Diffusion base model - Disney/Pixar style outputs](https://civitai.com/api/download/models/128046)
+
 ![3D Animation Example](./assets/3danimation_example.png)
 
 [AbsoluteReality - Realism focused model](https://civitai.com/api/download/models/132760)
+
 ![Absolute Reality](./assets/absolutereality_example.png)
 
 [Dreamshaper8 - Distinctly AI generated model](https://civitai.com/api/download/models/128713)
+
 ![Dreamshaper Example](./assets/dreamshaper_example.png)
 
 ###### Example Prompt:
